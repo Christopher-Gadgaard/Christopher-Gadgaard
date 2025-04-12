@@ -4,8 +4,6 @@
 
 ## :chart_with_upwards_trend: Stats
 
-![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christopher-Gadgaard&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Gadgaard&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Christopher-Gadgaard&label=PROFILE+VIEWS)
