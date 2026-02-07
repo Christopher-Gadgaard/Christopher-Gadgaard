@@ -1,9 +1,23 @@
-### Hello, World! I'm Christopher!👋
+# Hey, I’m Christopher 👋
 
-:man_technologist: I'm currently studying software engineering.
+I build software systems and try to keep them alive.
 
-## :chart_with_upwards_trend: Stats
+## What I’m working on
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Gadgaard&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Most of what I work on is private.
+At the moment that’s **Eve** — a company operating system
+for jobs, people, permissions, and the parts that don’t behave.
 
-![](https://komarev.com/ghpvc/?username=Christopher-Gadgaard&label=PROFILE+VIEWS)
+## How I tend to think
+
+I like systems that:
+- make responsibility clear
+- don’t break when reality is messy
+- are still understandable later
+- improve through better names, not more structure
+
+Still learning. Still simplifying.
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=Christopher-Gadgaard&label=views&color=grey)
